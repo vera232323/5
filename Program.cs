@@ -113,6 +113,6 @@ void Zadacha38()
                  Console.WriteLine("Разница максимального и минимального:  "+(max - min));
                 Console.ReadKey();
 }
-zadacha34();
-Zadacha36();
-Zadacha38();
+// zadacha34();
+// Zadacha36();
+// Zadacha38();
